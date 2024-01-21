@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bankaUS
+- 👋 Hi, I’m @bankaCode
 - 👀 I’m interested in making projects
 - 🌱 I’m currently learning python and AI-technology
 - 💞️ I’m looking to collaborate on ...
